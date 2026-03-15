@@ -1,6 +1,3 @@
-# AdaptiveNet_artifact
-
-This repo is the PyTorch implementation of the paper AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments (MobiCom 2023).
 
 ## Environment  
 The required packages of the environment we used to conduct experiments are listed in requirements.txt.
