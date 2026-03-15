@@ -1,0 +1,9 @@
+# coco2014.yaml
+
+path: /home/junjie/ALiDE/example_data # 这里写到 COCO 根目录（包含 annotations、train2014、val2014 文件夹的那一层）
+train: train2014.txt         # 训练图片文件夹名（相对于 path）
+val: val2014.txt             # 验证图片文件夹名（相对于 path）
+
+# 类别名字（COCO 80 类）
+nc: 3
+names: ['person','bicycle','car']
