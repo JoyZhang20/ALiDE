@@ -1,4 +1,5 @@
 import random
+random.seed(42)
 from collections import defaultdict
 from tqdm import tqdm
 from ultralytics import YOLO
